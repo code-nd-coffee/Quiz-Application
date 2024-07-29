@@ -80,3 +80,15 @@ Contributions are welcome! To contribute, follow these steps:
 4. Commit your changes (git commit -m 'Add some feature').
 5. Push to the branch (git push origin feature-branch).
 6. Open a pull request.
+
+## Contact
+For any questions or inquiries, please contact:
+- Shivam Kumar
+- Phone: (+91) 6299288582
+- Email: shivam7266194@gmail.com
+- LinkedIn: linkedin.com/in/codencoffee
+- GitHub: github.com/code-nd-coffee
+
+
+
+This `README.md` provides a comprehensive overview of your University Management System project, including setup instructions, usage guidelines, and contact information for potential contributors. Adjust any specific details according to your project structure and files.
