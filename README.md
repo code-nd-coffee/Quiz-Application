@@ -54,3 +54,16 @@ To set up the University Management System locally, follow these steps:
    ```sh
    git clone https://github.com/code-nd-coffee/University-Management-System.git
 
+2. Import the project into your IDE:
+- Open your favorite IDE (Eclipse, IntelliJ IDEA, etc.)
+- Import the project as a Maven project.
+
+4. Configure the database:
+- Create a MySQL database named university_management.
+- Import the SQL schema from the database/schema.sql file.
+- Update the database configuration in the db.properties file located in the src/main/resources directory.
+
+5. Build and run the project:
+- Use the Maven build tool to compile and package the project.
+- Deploy the project on a servlet container like Apache Tomcat.
+
