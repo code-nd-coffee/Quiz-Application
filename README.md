@@ -67,3 +67,16 @@ To set up the University Management System locally, follow these steps:
 - Use the Maven build tool to compile and package the project.
 - Deploy the project on a servlet container like Apache Tomcat.
 
+## Usage
+1. Open your web browser and navigate to http://localhost:8080/UniversityManagementSystem.
+2. Log in with administrative credentials to access the full suite of features.
+3. Navigate through the system to manage students, faculty, fees, exams, and more.
+
+## Contributing
+Contributions are welcome! To contribute, follow these steps:
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-branch).
+3. Make your changes.
+4. Commit your changes (git commit -m 'Add some feature').
+5. Push to the branch (git push origin feature-branch).
+6. Open a pull request.
